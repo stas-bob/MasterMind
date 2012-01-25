@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="colorButton">
+		<attr name="color">
+            <enum name="green" value="0" />
+            <enum name="yellow" value="1" />
+            <enum name="orange" value="2" />
+            <enum name="purple" value="3" />
+            <enum name="blue" value="4" />
+            <enum name="black" value="5" />
+            <enum name="red" value="6" />
+            <enum name="cyan" value="7" />
+        </attr>
+		<attr name="percent" format="integer"/>
+	</declare-styleable>
+</resources>

@@ -1,0 +1,7 @@
+gen/
+bin/
+project.properties
+proguard.cfg
+FritzBox/src/password
+FritzBox/src/server
+FritzBox/src/pics/
